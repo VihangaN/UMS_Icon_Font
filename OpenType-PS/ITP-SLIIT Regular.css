@@ -1,0 +1,9 @@
+/* Webfont:  */@font-face {
+    font-family: '';
+    src: url('ITP-SLIIT Regular.woff2') format('woff2'), /* Modern Browsers */
+         url('ITP-SLIIT Regular.otf') format('opentype'); /* Safari, Android, iOS */
+             font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
