@@ -1,6 +1,6 @@
+# ITP-UMS Icon font
+A Custom made icon font for SLIIT -  ITP Project
 
-An Custom made icon font for SLIIT -  ITP Project
-
-# Cheat sheet
+## Cheat sheet
 
 will update soon.
